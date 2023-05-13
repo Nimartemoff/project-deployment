@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 const pgp = require('pg-promise')();
-const db = pgp('postgres://postgres:1234@localhost:5432/vacancies');
+const db = pgp(`postgres://${process.env.DB_USER}:${process.env.DB_PASSWORD}@${process.env.DB_HOST}:5432/${process.env.DB_NAME}`);
 
 const VACANCIES_PER_PAGE = 30;
 
@@ -32,7 +32,12 @@ router.get('/', function(req, res, next) {
   }
 
   db.one('SELECT COUNT(vacancy.id) FROM vacancy').then(vacanciesCount => {
-    db.any(`SELECT company.img_href, vacancy.title, company.name, vacancy.automation_percent, vacancy.date, vacancy.id
+    let pageCount = Math.ceil(vacanciesCount['count'] / count);
+    if (page > pageCount) {
+      res.sendStatus(404);
+      return;
+    }
+    db.any(`SELECT company.img_href, vacancy.title, company.name, vacancy.automation_percent, vacancy.date, vacancy.id 
           FROM vacancy LEFT OUTER JOIN company 
           ON vacancy.company_id = company.id 
           ORDER BY ${sortKeySQLParam} ${sortAscSQLParam} 
@@ -40,7 +45,7 @@ router.get('/', function(req, res, next) {
           OFFSET ${(Number(page)-1) * count}`)
          .then(data => res.json({
           "page": page,
-          "pageCount": Math.ceil(vacanciesCount['count'] / count),
+          "pageCount": pageCount,
           "data": data
          }))
          .catch(err => next(err));
@@ -49,8 +54,8 @@ router.get('/', function(req, res, next) {
 
 router.get('/:id', function(req, res, next) {
   let id = parseInt(req.params.id);
-  db.any(`SELECT vacancy.title AS vacancy_title, company.name AS company_name,  
-          ARRAY(SELECT name FROM function WHERE function.vacancy_id='${id}') AS functions,
+  db.any(`SELECT vacancy.title AS vacancy_title, company.name AS company_name, vacancy.link AS vacancy_link, 
+          ARRAY(SELECT name FROM function WHERE function.vacancy_id='${id}' AND function.is_automatable) AS functions, 
             vacancy.date, automation_percent 
           FROM vacancy LEFT OUTER JOIN company 
           ON vacancy.company_id = company.id 
