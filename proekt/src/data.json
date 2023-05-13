@@ -1,0 +1,523 @@
+[
+    {
+        "id": "79086397",
+        "premium": false,
+        "billing_type": {
+            "id": "standard",
+            "name": "Стандарт"
+        },
+        "relations": [],
+        "name": "Frontend-разработчик",
+        "insider_interview": null,
+        "response_letter_required": false,
+        "area": {
+            "id": "95",
+            "name": "Тюмень",
+            "url": "https://api.hh.ru/areas/95"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Тюмень",
+            "street": "Первомайская улица",
+            "building": "40",
+            "lat": 57.150773,
+            "lng": 65.529073,
+            "description": null,
+            "raw": "Тюмень, Первомайская улица, 40",
+            "metro": null,
+            "metro_stations": []
+        },
+        "allow_messages": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "schedule": {
+            "id": "fullDay",
+            "name": "Полный день"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "department": null,
+        "contacts": null,
+        "description": "<p><strong>О вакансии:</strong></p> <p>Разработка бизнес-системы. Web.</p> <p><strong>Обязательно:</strong></p> <ul> <li>Знание синтаксиса языков JavaScript, TypeScript</li> <li>Базовые знания принципов работы Web</li> <li>Желание <strong>работать в команде</strong> и развиваться</li> </ul> <p><strong>Приветствуется:</strong></p> <ul> <li>Навыки работы с React, Redux</li> <li>Опыт работы с ОС семейства GNU/Linux</li> <li>Работа с Git</li> </ul> <p><strong>Будет круто, но не обязательно:</strong></p> <ul> <li>Знания базовых принципов разработки (тестирование, рефакторинг, Code Review)</li> <li>Знание английского языка на уровне чтения технической документации</li> <li>Участие в разработке Open Source проектов</li> <li>Наличие профиля на GitHub, Stack Overflow</li> <li>Наличие проектов которые можете продемонстрировать</li> <li>Выполнить наше тестовое задание: https://github.com/tric-itpc/frontend-task</li> </ul> <p><strong>У нас:</strong></p> <ul> <li>Полностью «белая» заработная плата с возможностью увеличения в процессе работы. Стажировка также оплачивается и оформляется в трудовую книжку.</li> <li>Полный рабочий день, гибкий обед по желанию сотрудника, гибкое время начала рабочего дня</li> <li>Добровольное медицинское страхование</li> <li>Дружелюбная команда с юмором, готовая поддержать</li> <li>Интересный проект и необычные задачи. Нет, если думаете, что рутины нет, она есть, но нацелены мы именно на продуктив</li> <li>Возможность одновременно участвовать в разных проектах и развивать другие компетенции</li> <li>Возможность попробовать современные тренды и практики в разработке ПО. Agile без фанатизма</li> <li>По желанию частично удаленная работа</li> <li>Никаких опенспейсов, а комфортное пространство в центре Тюмени</li> <li>Отсутствие дресс-кода и дурацких правил</li> <li>Минимальное количество скучных совещаний стремящееся к 0</li> <li>Готовы делиться опытом при условии, что вы готовы принимать</li> </ul> <p>Если у вас есть опыт работы с 1С, то эта вакансия не для вас. Даже не пытайтесь.<br />Если вакансия вас заинтересовала, но есть какие-то недопонимания и вопросы, пишите, договоримся о встрече, обсудим, договоримся.</p> <p>Большим плюсом будет решение тестового задания.</p> <p>Описание вакансии и задание: https://github.com/tric-itpc/task-frontend</p>",
+        "branded_description": null,
+        "vacancy_constructor_template": null,
+        "key_skills": [
+            {
+                "name": "JavaScript"
+            },
+            {
+                "name": "React"
+            },
+            {
+                "name": "HTML"
+            },
+            {
+                "name": "CSS"
+            },
+            {
+                "name": "Git"
+            },
+            {
+                "name": "TypeScript"
+            },
+            {
+                "name": "Работа в команде"
+            }
+        ],
+        "accept_handicapped": false,
+        "accept_kids": false,
+        "archived": false,
+        "response_url": null,
+        "specializations": [],
+        "professional_roles": [
+            {
+                "id": "96",
+                "name": "Программист, разработчик"
+            }
+        ],
+        "code": null,
+        "hidden": false,
+        "quick_responses_allowed": false,
+        "driver_license_types": [],
+        "accept_incomplete_resumes": false,
+        "employer": {
+            "id": "1234864",
+            "name": "Тюменский расчетно-информационный центр",
+            "url": "https://api.hh.ru/employers/1234864",
+            "alternate_url": "https://hh.ru/employer/1234864",
+            "logo_urls": {
+                "240": "https://hhcdn.ru/employer-logo/1691307.jpeg",
+                "original": "https://hhcdn.ru/employer-logo-original/312235.jpg",
+                "90": "https://hhcdn.ru/employer-logo/1691306.jpeg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1234864",
+            "trusted": true
+        },
+        "published_at": "2023-04-10T09:58:34+0300",
+        "created_at": "2023-04-10T09:58:34+0300",
+        "initial_created_at": "2023-04-10T09:58:34+0300",
+        "negotiations_url": null,
+        "suitable_resumes_url": null,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79086397",
+        "has_test": false,
+        "test": null,
+        "alternate_url": "https://hh.ru/vacancy/79086397",
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "languages": []
+    },
+    {
+        "id": "79079673",
+        "premium": false,
+        "billing_type": {
+            "id": "standard",
+            "name": "Стандарт"
+        },
+        "relations": [],
+        "name": "Диспетчер по медицинским услугам",
+        "insider_interview": null,
+        "response_letter_required": false,
+        "area": {
+            "id": "95",
+            "name": "Тюмень",
+            "url": "https://api.hh.ru/areas/95"
+        },
+        "salary": {
+            "from": 35000,
+            "to": 35000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Тюмень",
+            "street": "Червишевский тракт",
+            "building": null,
+            "lat": 57.111859,
+            "lng": 65.523719,
+            "description": null,
+            "raw": "Тюмень, Червишевский тракт",
+            "metro": null,
+            "metro_stations": []
+        },
+        "allow_messages": true,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "department": null,
+        "contacts": null,
+        "description": "<p><strong>Обязанности:</strong></p> <p>- Оформление документов по санаторно- курортным картам;</p> <p>- Регистрация пациентов по ОМС;</p> <p>- Оформление карты для первичного приема;</p> <p>- Изменение расписания в листе назначения пациента;</p> <p>- Корректировка графика приема процедур;</p> <p>- Работа с кассовым аппаратом, прием наличных;</p> <p>- Обработка посещений врачей.</p> <p> </p> <p><strong>Требования:</strong></p> <p>- Образование: средне- специальное, высшее</p> <p>- Уверенный пользователь ПК,</p> <p>- Клиентоориентированность, ответственность, готовность работать в команде,</p> <p>- Грамотная речь, четкая дикция.</p> <p> </p> <p><strong>Условия:</strong></p> <p>- Официальное трудоустройство,</p> <p>- Полный социальный пакет,</p> <p>- Комфортное рабочее место,</p> <p>- Своевременная заработная плата (2 раза в месяц),</p> <p>- Режим работы 2/2 с 8.00 до 20.00 ч.,</p> <p>- Доставка транспортом предприятия,</p> <p>- Питание по льготным ценам в корпоративной столовой.</p> <p> </p>",
+        "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0px;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0px !important;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0px !important;    \n}\n\n.tmpl_hh_wrapper .b-vacancy-desc {\n    overflow: visible !important;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    line-height: inherit;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    margin: 0 auto;\n    max-width: 690px;\n    position: relative;\n    word-break: normal;\n    overflow: hidden;\n    font-family: 'Arial';\n    font-weight: 400;\n    font-size: 16px;\n    line-height: 23px;\n    color: #000;\n    z-index: 1;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_content {\n    padding: 60px 40px 50px;\n    position: relative;\n    z-index: 1;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content>strong:first-child,\n.tmpl_hh_content div>strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n   margin: 38px 0 8px;\n}\n\n.tmpl_hh_content b, \n.tmpl_hh_content strong {\n    display: inline-block;\n    font-weight: 700;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 24px;\n    list-style: none !important;\n}\n\n.tmpl_hh_content ol {\n    counter-reset: list_counter;\n}\n\n.tmpl_hh_content li {\n    position: relative;\n    margin-bottom: 10px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 10px;\n}\n\n.tmpl_hh_content ol>li {\n    counter-increment: list_counter;    \n}\n\n.tmpl_hh_content li:before {\n    position: absolute;\n    left: -24px;\n    top: 0;\n}\n\n.tmpl_hh_content ul>li:before {\n    content: \"—\";\n    font-family: 'Tahoma';\n    font-size: 14px;\n    line-height: 19px;\n}\n\n.tmpl_hh_content ol>li:before {\n    content: counter(list_counter)'.';\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n}\n\n.tmpl_hh_header {\n    position: relative;\n}\n\n.tmpl_hh_header__logo {\n    position: absolute;\n    left: 7.3%;\n    top: 10%;\n}\n\np.tmpl_hh_header__slogan {\n    position: absolute;\n    font-family: 'Tahoma';\n    font-weight: 700;\n    font-size: 22px;\n    line-height: 28px;\n    text-align: center;\n    letter-spacing: 0.03em;\n    text-transform: uppercase;\n    color: #000000;\n    width: 200px;\n    bottom: 13.5%;\n    left: 9.4%;\n}\n\np.tmpl_hh_header__slogan span {\n    color: rgba(81, 93, 6, 1);\n}\n\n.tmpl_hh_advantages {\n    background: #D7B46A;\n    border-radius: 0px 0px 130px 0px;\n    width: 97%;\n    box-sizing: border-box;\n    padding: 61px 40px 37px;\n    margin-bottom: 20px;\n}\n\np.tmpl_hh_advantages__title {\n    font-family: 'Tahoma';\n    font-style: normal;\n    font-weight: 700;\n    font-size: 22px;\n    line-height: 125%;\n    letter-spacing: 0.03em;\n    text-transform: uppercase;\n    color: #FFFFFF;\n    margin-bottom: 37px;\n}\n\n.tmpl_hh_advantages__items {\n    margin: 0 -11px 0 0;\n}\n\n.tmpl_hh_advantages__item {\n    width: 30%;\n    margin-bottom: 43px;\n}\n\n.tmpl_hh_advantages__icon {\n    height: 65px;\n    margin-bottom: 19px;\n    position: relative;\n}\n\n.tmpl_hh_advantages__icon img {\n    width: auto;\n    position: absolute;\n    bottom: 0;\n}\n\n.tmpl_hh_photos__item {\n    width: 33.3333333%;\n}\n\n.tmpl_hh_slogan {\n    font-family: 'Tahoma';\n    font-weight: 700;\n    font-size: 22px;\n    line-height: 125%;\n    text-align: center;\n    letter-spacing: 0.03em;\n    text-transform: uppercase;\n    color: #515D06;\n    margin: 30px 16% 35px;\n}\n\np.tmpl_hh_footnote {\n    font-family: 'Tahoma';\n    font-weight: 400;\n    font-size: 12px;\n    line-height: 14px;\n    color: #999999;\n    text-align: center;\n    margin-bottom: 40px;\n}\n\n\n\n@media screen and (max-width: 1019px) {\n    p.tmpl_hh_header__slogan {\n        bottom: 7.5%;\n    }\n}\n\n@media screen and (max-width: 699px) {\n    .tmpl_hh_content {\n        padding: 36px 20px 30px;\n    }\n\n    .tmpl_hh_header__logo {\n        position: relative;\n        left: 0;\n        top: 0;\n        width: 49%;\n        margin: -12.6% auto 22px;\n    }\n\n    p.tmpl_hh_header__slogan {\n        bottom: 0;\n        left: 0;\n        position: relative;\n        margin: 0 auto;\n    }\n\n    .tmpl_hh_advantages {\n        border-radius: 0 0px 100px 0px;\n        width: 94%;\n        padding: 41px 20px 10px;\n        margin-bottom: 20px;\n    }\n\n    p.tmpl_hh_advantages__title {\n        margin-bottom: 29px;\n    }\n\n    .tmpl_hh_advantages__item {\n        width: 94%;\n        margin-bottom: 28px;\n    }\n\n    .tmpl_hh_photos {\n        margin: 0 10px;\n    }\n\n    .tmpl_hh_slogan {\n        margin: 30px 7% 31px;\n    }\n\n    p.tmpl_hh_footnote {\n        margin: 0 60px 30px;\n    }\n\n}\n</style>\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <div class=\"tmpl_hh_header__photo\">\n            <picture>\n                <source srcset=\"https://hhcdn.ru/ichameleon/246006.jpg\" media=\"(max-width: 699px)\"></source>\n                <img src=\"https://hhcdn.ru/ichameleon/245975.jpg\" alt=\"\">\n            </picture>\n        </div>\n        <div class=\"tmpl_hh_header__logo\"><img src=\"https://hhcdn.ru/ichameleon/245969.svg\" alt=\"\"></div>\n        <p class=\"tmpl_hh_header__slogan\">Заботимся о здоровье и долголетии <span>с 1992 года</span></p>\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <p><strong>Обязанности:</strong></p> <p>- Оформление документов по санаторно- курортным картам;</p> <p>- Регистрация пациентов по ОМС;</p> <p>- Оформление карты для первичного приема;</p> <p>- Изменение расписания в листе назначения пациента;</p> <p>- Корректировка графика приема процедур;</p> <p>- Работа с кассовым аппаратом, прием наличных;</p> <p>- Обработка посещений врачей.</p> <p> </p> <p><strong>Требования:</strong></p> <p>- Образование: средне- специальное, высшее</p> <p>- Уверенный пользователь ПК,</p> <p>- Клиентоориентированность, ответственность, готовность работать в команде,</p> <p>- Грамотная речь, четкая дикция.</p> <p> </p> <p><strong>Условия:</strong></p> <p>- Официальное трудоустройство,</p> <p>- Полный социальный пакет,</p> <p>- Комфортное рабочее место,</p> <p>- Своевременная заработная плата (2 раза в месяц),</p> <p>- Режим работы 2/2 с 8.00 до 20.00 ч.,</p> <p>- Доставка транспортом предприятия,</p> <p>- Питание по льготным ценам в корпоративной столовой.</p> <p> </p></div>\n    <div class=\"tmpl_hh_advantages\">\n        <p class=\"tmpl_hh_advantages__title\">преимущества работы<br> в санатории «сибирь»:</p>\n        <div class=\"tmpl_hh_advantages__items tmpl_hh_flex\">\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/245971.svg\" alt=\"\"></div>\n                <p>Стабильная официальная заработная плата</p>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/245968.svg\" alt=\"\"></div>\n                <p>Бесплатная доставка транспортом компании</p>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/245967.svg\" alt=\"\"></div>\n                <p>Бесплатное либо льготное питание в зависимости от подразделения</p>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/245965.svg\" alt=\"\"></div>\n                <p>Услуги тренажерного зала</p>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/245966.svg\" alt=\"\"></div>\n                <p>Скидки на медицинские услуги и процедуры</p>\n            </div>\n            <div class=\"tmpl_hh_advantages__item\">\n                <div class=\"tmpl_hh_advantages__icon\"><img src=\"https://hhcdn.ru/ichameleon/245970.svg\" alt=\"\"></div>\n                <p>69 гектаров прекрасной ухоженной территории</p>\n            </div>\n        </div>\n    </div>\n    <div class=\"tmpl_hh_photos tmpl_hh_flex\">\n        <div class=\"tmpl_hh_photos__item\"><img src=\"https://hhcdn.ru/ichameleon/245974.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_photos__item\"><img src=\"https://hhcdn.ru/ichameleon/245973.jpg\" alt=\"\"></div>\n        <div class=\"tmpl_hh_photos__item\"><img src=\"https://hhcdn.ru/ichameleon/245972.jpg\" alt=\"\"></div>\n    </div>\n    <div class=\"tmpl_hh_slogan\">мы приглашаем вас стать частью нашей команды!</div>\n    <p class=\"tmpl_hh_footnote\">АО «ЦВМИР «СИБИРЬ» работает под брендом Сибирь</p>\n</div> \n\n",
+        "vacancy_constructor_template": null,
+        "key_skills": [],
+        "accept_handicapped": false,
+        "accept_kids": false,
+        "archived": false,
+        "response_url": null,
+        "specializations": [],
+        "professional_roles": [
+            {
+                "id": "8",
+                "name": "Администратор"
+            }
+        ],
+        "code": null,
+        "hidden": false,
+        "quick_responses_allowed": false,
+        "driver_license_types": [],
+        "accept_incomplete_resumes": false,
+        "employer": {
+            "id": "1717402",
+            "name": "ЦВМиР Сибирь",
+            "url": "https://api.hh.ru/employers/1717402",
+            "alternate_url": "https://hh.ru/employer/1717402",
+            "logo_urls": {
+                "original": "https://hhcdn.ru/employer-logo-original/900706.png",
+                "90": "https://hhcdn.ru/employer-logo/4043511.png",
+                "240": "https://hhcdn.ru/employer-logo/4043512.png"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1717402",
+            "trusted": true
+        },
+        "published_at": "2023-04-10T08:26:12+0300",
+        "created_at": "2023-04-10T08:26:12+0300",
+        "initial_created_at": "2023-04-10T08:26:12+0300",
+        "negotiations_url": null,
+        "suitable_resumes_url": null,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79079673",
+        "has_test": false,
+        "test": null,
+        "alternate_url": "https://hh.ru/vacancy/79079673",
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "languages": []
+    },
+    {
+        "id": "79059560",
+        "premium": false,
+        "billing_type": {
+            "id": "standard",
+            "name": "Стандарт"
+        },
+        "relations": [],
+        "name": "Помощник библиотекаря",
+        "insider_interview": null,
+        "response_letter_required": false,
+        "area": {
+            "id": "95",
+            "name": "Тюмень",
+            "url": "https://api.hh.ru/areas/95"
+        },
+        "salary": {
+            "from": 28000,
+            "to": 35000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": null,
+        "allow_messages": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "schedule": {
+            "id": "flexible",
+            "name": "Гибкий график"
+        },
+        "employment": {
+            "id": "part",
+            "name": "Частичная занятость"
+        },
+        "department": null,
+        "contacts": null,
+        "description": "<p>В офисную библиотеку требуется сотрудник, в его функциональные обязанности будет входить.</p> <p>Заполнение и ведение карточек учета;</p> <p>Постановка на учет поступаемой литературы;</p> <p>Соблюдение условий хранение книг.</p> <p>Комфортные условия работы, гибкий график.</p> <p> </p> <div> <div> <div> </div> </div> </div>",
+        "branded_description": null,
+        "vacancy_constructor_template": null,
+        "key_skills": [],
+        "accept_handicapped": false,
+        "accept_kids": false,
+        "archived": false,
+        "response_url": null,
+        "specializations": [],
+        "professional_roles": [
+            {
+                "id": "33",
+                "name": "Делопроизводитель, архивариус"
+            }
+        ],
+        "code": null,
+        "hidden": false,
+        "quick_responses_allowed": false,
+        "driver_license_types": [],
+        "accept_incomplete_resumes": false,
+        "employer": {
+            "id": "9734263",
+            "name": "Профит Плюс",
+            "url": "https://api.hh.ru/employers/9734263",
+            "alternate_url": "https://hh.ru/employer/9734263",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9734263",
+            "trusted": false
+        },
+        "published_at": "2023-04-07T20:19:47+0300",
+        "created_at": "2023-04-07T20:19:47+0300",
+        "initial_created_at": "2023-04-07T20:19:47+0300",
+        "negotiations_url": null,
+        "suitable_resumes_url": null,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79059560",
+        "has_test": false,
+        "test": null,
+        "alternate_url": "https://hh.ru/vacancy/79059560",
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "languages": []
+    },
+    {
+        "id": "78431808",
+        "premium": false,
+        "billing_type": {
+            "id": "standard",
+            "name": "Стандарт"
+        },
+        "relations": [],
+        "name": "Администратор салона красоты, Тюмень",
+        "insider_interview": null,
+        "response_letter_required": false,
+        "area": {
+            "id": "95",
+            "name": "Тюмень",
+            "url": "https://api.hh.ru/areas/95"
+        },
+        "salary": {
+            "from": 20000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Тюмень",
+            "street": "Таймырская улица",
+            "building": "72",
+            "lat": 57.136714,
+            "lng": 65.559561,
+            "description": null,
+            "raw": "Тюмень, Таймырская улица, 72",
+            "metro": null,
+            "metro_stations": []
+        },
+        "allow_messages": true,
+        "experience": {
+            "id": "noExperience",
+            "name": "Нет опыта"
+        },
+        "schedule": {
+            "id": "remote",
+            "name": "Удаленная работа"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "department": null,
+        "contacts": null,
+        "description": "<p><strong>Требуется удаленный администратор в сеть студий красоты в Тюмени.</strong></p> <p>Обязанности:</p> <p>• Общение с клиентами по телефону</p> <p>• Ведение клиентской базы</p> <p>• Ведение отчётности</p> <p> </p> <p>Требования:</p> <p>• Коммуникабельность</p> <p>• Грамотные письмо и речь</p> <p>• Обучаемость</p> <p> </p> <p>Условия:</p> <p>• График обговаривается на собеседовании</p> <p>• Заработная плата растёт с объёмом продаж</p> <p>• Карьерная перспектива</p> <p> </p> <p>Звонить/писать в Watsapp</p>",
+        "branded_description": null,
+        "vacancy_constructor_template": null,
+        "key_skills": [
+            {
+                "name": "Грамотная речь"
+            },
+            {
+                "name": "Пользователь ПК"
+            },
+            {
+                "name": "Ведение клиентской базы"
+            }
+        ],
+        "accept_handicapped": false,
+        "accept_kids": false,
+        "archived": false,
+        "response_url": null,
+        "specializations": [],
+        "professional_roles": [
+            {
+                "id": "8",
+                "name": "Администратор"
+            }
+        ],
+        "code": null,
+        "hidden": false,
+        "quick_responses_allowed": false,
+        "driver_license_types": [],
+        "accept_incomplete_resumes": false,
+        "employer": {
+            "id": "8972768",
+            "name": "Resnichka",
+            "url": "https://api.hh.ru/employers/8972768",
+            "alternate_url": "https://hh.ru/employer/8972768",
+            "logo_urls": null,
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8972768",
+            "trusted": false
+        },
+        "published_at": "2023-03-23T08:10:31+0300",
+        "created_at": "2023-03-23T08:10:31+0300",
+        "initial_created_at": "2023-03-23T08:10:31+0300",
+        "negotiations_url": null,
+        "suitable_resumes_url": null,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=78431808",
+        "has_test": false,
+        "test": null,
+        "alternate_url": "https://hh.ru/vacancy/78431808",
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "languages": []
+    },
+    {
+        "id": "79025655",
+        "premium": false,
+        "billing_type": {
+            "id": "standard",
+            "name": "Стандарт"
+        },
+        "relations": [],
+        "name": "Специалист по оформлению перевозочных документов",
+        "insider_interview": null,
+        "response_letter_required": false,
+        "area": {
+            "id": "1345",
+            "name": "Тобольск",
+            "url": "https://api.hh.ru/areas/1345"
+        },
+        "salary": null,
+        "type": {
+            "id": "open",
+            "name": "Открытая"
+        },
+        "address": {
+            "city": "Тобольск",
+            "street": "территория Восточный Промышленный Район",
+            "building": null,
+            "lat": 58.239981,
+            "lng": 68.449011,
+            "description": null,
+            "raw": "Тобольск, территория Восточный Промышленный Район",
+            "metro": null,
+            "metro_stations": []
+        },
+        "allow_messages": true,
+        "experience": {
+            "id": "between1And3",
+            "name": "От 1 года до 3 лет"
+        },
+        "schedule": {
+            "id": "shift",
+            "name": "Сменный график"
+        },
+        "employment": {
+            "id": "full",
+            "name": "Полная занятость"
+        },
+        "department": null,
+        "contacts": null,
+        "description": "<strong>Обязанности:</strong> <ul> <li>Оформление пакета перевозочных документов на перевозку грузов железнодорожным транспортом, грузоотправителем которых выступает ООО «НХТК»;</li> <li>Раскредитование документов на вагоны, прибывших в адрес ООО «НХТК»;</li> <li>Выгрузка паспортных данных на прибывшие и раскредитованные вагоны;</li> <li>Печать накладных для предварительного таможенного декларирования;</li> <li>Передача диспетчеру по отгрузке документов на грузы, прибывшие в адрес компании.</li> </ul> <strong>Требования:</strong> <ul> <li>Образование среднее профессиональное;</li> <li>Уверенный пользователь MS Office, Outlook, Word, Excel;</li> <li>Ответственность, исполнительность, организованность;</li> <li>Умение работать в условиях, требующих высокой концентрации внимания.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Конкурентную заработную плату и премии;</li> <li>Дружный, активный и высокопрофессиональный коллектив;</li> <li>Широкие возможности для обучения и развития;</li> <li>Расширенный социальный пакет;</li> <li>Официальное трудоустройство, гарантии согласно ТК РФ.</li> </ul> <p><strong>Забота о сотрудниках:</strong></p> <ul> <li>Добровольное медицинское страхование;</li> <li>Система материальной поддержки;</li> <li>Дополнительные выходные дни по коллективному договору;</li> <li>Яркие корпоративные мероприятия для сотрудников и членов их семьи;</li> <li>Посещение спортивных секций, участие в спортивных мероприятиях;</li> <li>Разнообразная культурная жизнь (посещение театров, экскурсии и т.д.);</li> <li>Санаторно-курортное лечение;</li> <li>Доставка на работу и с работы служебным транспортом;</li> <li>Компенсация оплаты детских дошкольных учреждений;</li> <li>Обучение за счет компании.</li> </ul> <p><strong>Забота о детях сотрудников:</strong></p> <ul> <li>Бесплатные путевки в детские лагеря;</li> <li>Оригинальные новогодние подарки и ранцы для первоклассников;</li> <li>Детские праздники;</li> <li>Тематические вебинары и мастер-классы.</li> </ul>",
+        "branded_description": "\n<style>\n.tmpl_hh_wrapper p,\n.tmpl_hh_wrapper blockquote,\n.tmpl_hh_wrapper a,\n.tmpl_hh_wrapper img,\n.tmpl_hh_wrapper ol,\n.tmpl_hh_wrapper ul,\n.tmpl_hh_wrapper li {\n    margin: 0;\n    padding: 0;\n    border: 0;\n    font-size: 100%;\n    font: inherit;\n    vertical-align: baseline;\n}\n\n.hht-vacancydescription {\n    padding: 0;\n}\n\n.tmpl_hh_wrapper .l-cell,\n.tmpl_hh_wrapper .l-paddings {\n    padding: 0;\n}\n\n.tmpl_hh_wrapper .b-vacancy-desc-wrapper {\n    margin-top: 0;\n}\n\n.b-vacancy-desc {\n    overflow: visible;\n}\n\n.tmpl_hh_content ol li b,\n.tmpl_hh_content ol li strong,\n.tmpl_hh_content ol li p b,\n.tmpl_hh_content ol li p strong,\n.tmpl_hh_content ul li b,\n.tmpl_hh_content ul li strong,\n.tmpl_hh_content ul li p b,\n.tmpl_hh_content ul li p strong {\n    font-weight: normal;\n    font-size: inherit !important;\n    color: inherit !important;\n    margin: 0 !important;\n    text-transform: none;\n    display: inline;\n}\n\n.tmpl_hh_content ol li p,\n.tmpl_hh_content ul li p {\n    font-weight: normal;\n    margin: 0;\n    display: inline;\n}\n\n.tmpl_hh_content p b,\n.tmpl_hh_content p strong {\n    display: inline;\n    margin: 0;\n}\n\n.tmpl_hh_svg {\n    width: 100%;\n    height: 100%;\n    position: absolute;\n    top: 0;\n    left: 0;\n}\n\n.tmpl_hh_flex {\n    display: -webkit-box;\n    display: -ms-flexbox;\n    display: flex;\n    -webkit-box-pack: justify;\n    -ms-flex-pack: justify;\n    justify-content: space-between;\n}\n\n.tmpl_hh_video {\n    height: 0;\n    position: relative;\n}\n\n.tmpl_hh_video img,\n.tmpl_hh_video iframe {\n    width: 100%;\n    height: 100%;\n    position: absolute;\n    left: 0;\n    top: 0;\n}\n\n.tmpl_hh_wrapper {\n    width: 100%;\n    max-width: 690px;\n    margin: 0 auto;\n    position: relative;\n    overflow: hidden;\n    word-break: normal;\n    font-family: 'Arial', sans-serif;\n    color: #4c4d4f;\n    font-size: 14px;\n    line-height: 18px;\n}\n\n.tmpl_hh_wrapper img {\n    width: 100%;\n    display: block;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -ms-user-select: none;\n    user-select: none;\n}\n\n.tmpl_hh_header {\n    position: relative;\n}\n\nimg.tmpl_hh_header__logo {\n    position: absolute;\n    width: 19.9%;\n    bottom: 7.5%;\n    left: 5.6%;\n    z-index: 50;\n}\n\n.tmpl_hh_content {\n    padding: 1.15% 5.8% 5.3%;\n}\n\n.tmpl_hh_content p,\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    display: block;\n    margin: 4.2% 0 1.5%;\n}\n\n.tmpl_hh_content b,\n.tmpl_hh_content strong {\n    font-size: 16px;\n    line-height: 18px;\n    color: #006b36;\n}\n\n.tmpl_hh_content p:first-child,\n.tmpl_hh_content b:first-child,\n.tmpl_hh_content strong:first-child {\n    margin-top: 0 !important;\n}\n\n.tmpl_hh_content ul,\n.tmpl_hh_content ul ul {\n    list-style: none;\n}\n\n.tmpl_hh_content ol {\n    list-style: none;\n    counter-reset: list;\n}\n\n.tmpl_hh_content ol,\n.tmpl_hh_content ul {\n    margin-left: 4.2%;\n    letter-spacing: 0.1px;\n}\n\n.tmpl_hh_content ul li,\n.tmpl_hh_content ol li {\n    position: relative;\n    margin-bottom: 8px;\n}\n\n.tmpl_hh_content ul ul,\n.tmpl_hh_content ul ol,\n.tmpl_hh_content ol ol,\n.tmpl_hh_content ol ul {\n    margin-top: 8px;\n}\n\n.tmpl_hh_content ol > li {\n    counter-increment: list;\n}\n\n.tmpl_hh_content ul > li:before,\n.tmpl_hh_content ol > li:before {\n    position: absolute;\n    left: -26px;\n    top: 0;\n}\n\n.tmpl_hh_content ul > li:before {\n    content: \"—\";\n}\n\n.tmpl_hh_content ol > li:before {\n    content: counter(list) \".\";\n    left: auto;\n    right: 100%;\n    margin-right: 2px;\n}\n\n.tmpl_hh_footer {\n    position: relative;\n}\n\n\n/*Mob*/\n@media (max-width: 699px) {\n\n\n    img.tmpl_hh_header__logo {\n        position: relative;\n        width: 40.3%;\n        bottom: 0;\n        left: 3.45%;\n        margin-top: -10px;\n    }\n\n    .tmpl_hh_content {\n        padding: 10.6% 3.3% 13.5%;\n    }\n\n    .tmpl_hh_content p,\n    .tmpl_hh_content b,\n    .tmpl_hh_content strong {\n        margin: 9.2% 0 3.3%;\n    }\n\n    .tmpl_hh_content ol,\n    .tmpl_hh_content ul {\n        margin-left: 9.1%;\n    }\n\n}\n</style>\n\n\n\n<div class=\"tmpl_hh_wrapper\">\n    <div class=\"tmpl_hh_header\">\n        <img src=\"https://hhcdn.ru/ichameleon/138989.jpg\" alt=\"\">\n        <img src=\"https://hhcdn.ru/ichameleon/138988.jpg\" alt=\"\" class=\"tmpl_hh_header__logo\">\n    </div>\n    <div class=\"tmpl_hh_content\">\n        <strong>Обязанности:</strong> <ul> <li>Оформление пакета перевозочных документов на перевозку грузов железнодорожным транспортом, грузоотправителем которых выступает ООО «НХТК»;</li> <li>Раскредитование документов на вагоны, прибывших в адрес ООО «НХТК»;</li> <li>Выгрузка паспортных данных на прибывшие и раскредитованные вагоны;</li> <li>Печать накладных для предварительного таможенного декларирования;</li> <li>Передача диспетчеру по отгрузке документов на грузы, прибывшие в адрес компании.</li> </ul> <strong>Требования:</strong> <ul> <li>Образование среднее профессиональное;</li> <li>Уверенный пользователь MS Office, Outlook, Word, Excel;</li> <li>Ответственность, исполнительность, организованность;</li> <li>Умение работать в условиях, требующих высокой концентрации внимания.</li> </ul> <p><strong>Мы предлагаем:</strong></p> <ul> <li>Конкурентную заработную плату и премии;</li> <li>Дружный, активный и высокопрофессиональный коллектив;</li> <li>Широкие возможности для обучения и развития;</li> <li>Расширенный социальный пакет;</li> <li>Официальное трудоустройство, гарантии согласно ТК РФ.</li> </ul> <p><strong>Забота о сотрудниках:</strong></p> <ul> <li>Добровольное медицинское страхование;</li> <li>Система материальной поддержки;</li> <li>Дополнительные выходные дни по коллективному договору;</li> <li>Яркие корпоративные мероприятия для сотрудников и членов их семьи;</li> <li>Посещение спортивных секций, участие в спортивных мероприятиях;</li> <li>Разнообразная культурная жизнь (посещение театров, экскурсии и т.д.);</li> <li>Санаторно-курортное лечение;</li> <li>Доставка на работу и с работы служебным транспортом;</li> <li>Компенсация оплаты детских дошкольных учреждений;</li> <li>Обучение за счет компании.</li> </ul> <p><strong>Забота о детях сотрудников:</strong></p> <ul> <li>Бесплатные путевки в детские лагеря;</li> <li>Оригинальные новогодние подарки и ранцы для первоклассников;</li> <li>Детские праздники;</li> <li>Тематические вебинары и мастер-классы.</li> </ul></div>\n</div>\n\n",
+        "vacancy_constructor_template": null,
+        "key_skills": [
+            {
+                "name": "Железнодорожные перевозки"
+            },
+            {
+                "name": "Таможенное оформление"
+            },
+            {
+                "name": "MS Outlook"
+            },
+            {
+                "name": "Документальное сопровождение"
+            },
+            {
+                "name": "Транспортная логистика"
+            }
+        ],
+        "accept_handicapped": false,
+        "accept_kids": false,
+        "archived": false,
+        "response_url": null,
+        "specializations": [],
+        "professional_roles": [
+            {
+                "id": "33",
+                "name": "Делопроизводитель, архивариус"
+            }
+        ],
+        "code": null,
+        "hidden": false,
+        "quick_responses_allowed": false,
+        "driver_license_types": [],
+        "accept_incomplete_resumes": false,
+        "employer": {
+            "id": "3689987",
+            "name": "Нефтехимическая транспортная компания",
+            "url": "https://api.hh.ru/employers/3689987",
+            "alternate_url": "https://hh.ru/employer/3689987",
+            "logo_urls": {
+                "240": "https://hhcdn.ru/employer-logo/5562885.jpeg",
+                "90": "https://hhcdn.ru/employer-logo/5562884.jpeg",
+                "original": "https://hhcdn.ru/employer-logo-original/985516.jpg"
+            },
+            "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3689987",
+            "trusted": true
+        },
+        "published_at": "2023-04-07T11:20:33+0300",
+        "created_at": "2023-04-07T11:20:33+0300",
+        "initial_created_at": "2023-04-07T09:32:19+0300",
+        "negotiations_url": null,
+        "suitable_resumes_url": null,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=79025655",
+        "has_test": false,
+        "test": null,
+        "alternate_url": "https://hh.ru/vacancy/79025655",
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "languages": []
+    }
+
+]
